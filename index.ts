@@ -1,2 +1,3 @@
-console.log('teste')
-console.log('teste 02')
+const nome = 'Edson';
+const sobrenome = 'Bastos';
+console.log(nome, sobrenome);
